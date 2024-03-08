@@ -33,6 +33,7 @@ The SecureNoise Key Generation Algorithm is provided as-is, without any warranti
 ### Authors
 - Pardheev Krishna Tammineni
 - Prenitha R
+- Anurag Amol Tamhankar
 
 ### References
 Yet To Be Added
